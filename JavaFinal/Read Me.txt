@@ -1,0 +1,6 @@
+Ky eshte projekti profesor.
+Gjithashtu Account-s qe jane te gatshem jane:
+1.id: 0001 username: ang1   password: qwe
+2.id: 0002 username: lame1  password: asd
+
+Faleminderit :) 
